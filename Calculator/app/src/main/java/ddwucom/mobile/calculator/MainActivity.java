@@ -1,3 +1,9 @@
+/* 과제명: 중간평가 과제 - 정수 계산기 개발
+ * 분반: 01분반
+ * 학번:20161048, 성명:이유리
+ * 제출일 :2020년 5월 27일
+ */
+
 package ddwucom.mobile.calculator;
 
 import androidx.annotation.NonNull;
